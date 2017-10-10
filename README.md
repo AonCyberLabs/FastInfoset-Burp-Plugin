@@ -4,9 +4,9 @@ This tool detects XML Fast Infoset encoded HTTP requests in Burp based on the Co
 
 ![alt screenshot](https://image.ibb.co/jTZxmF/xmlfastinfoset.png)
 
-Blog Post: <TO DO>
+For more information see the accompanying [blog post](https://blog.gdssecurity.com/labs/2017/10/10/pentesting-fast-infoset-based-web-applications-with-burp.html)
 
-I used a decoding function from [Lu Jun](https://github.com/luj1985/albatross)'s code.
+This plugin uses a decoding function from [Lu Jun](https://github.com/luj1985/albatross)'s code.
 
 ## USAGE
 
